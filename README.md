@@ -1,5 +1,9 @@
 # SHM on ROS
 
+## TO DO BEFORE RELEASE
+
+CHANGE `git@github.com:costinior/ros_comm.git` TO THE FIVE REPO. RENAME REFERENCES TO `ros_comm` APPROPRIATELY.
+
 ## General description
 
 This repository contains the C++ implementation of the shared memory mechanism described in the paper _Smart Pointers and Shared Memory Synchronisation for Efficient Inter-process Communication in ROS on an Autonomous Vehicle_ (IROS 2021) along with detailed build and deployment instructions.
